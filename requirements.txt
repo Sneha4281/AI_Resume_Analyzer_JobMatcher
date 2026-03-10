@@ -1,0 +1,8 @@
+scikit-learn
+spacy
+sentence-transformers
+pdfplumber
+uvicorn
+fastapi
+pydantic
+python-dotenv
